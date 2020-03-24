@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "539246566875",
+    "firebase_url": "https://sound-classification-a041b.firebaseio.com",
+    "project_id": "sound-classification-a041b",
+    "storage_bucket": "sound-classification-a041b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539246566875:android:dfee50206bc4fd0504dbfe",
+        "android_client_info": {
+          "package_name": "com.example.soundclassification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539246566875-5ojieagjmh117l0i2vrvkb7mq3jqo281.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeEP9eNKIanqqRd7ZdJKmD5veRx-TAL4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539246566875-5ojieagjmh117l0i2vrvkb7mq3jqo281.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
