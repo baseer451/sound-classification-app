@@ -8,4 +8,6 @@
     <string name="sign_in_msg">Don\'t have an account? Click here to Sign up</string>
     <string name="user_name">user_name</string>
     <string name="welcome">Welcome</string>
+    <string name="sound">SOUND:</string>
+    <string name="sign_out">Sign out</string>
 </resources>
