@@ -17,11 +17,11 @@
 
     <Button
         android:id="@+id/signOut"
-        android:layout_width="wrap_content"
+        android:layout_width="177dp"
         android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/history"
         android:text="@string/sign_out" />
 
     <TextView
@@ -70,13 +70,22 @@
     <ListView
         android:id="@+id/ListV"
         android:layout_width="match_parent"
-        android:layout_height="461dp"
+        android:layout_height="430dp"
         android:layout_above="@id/signOut"
-        android:layout_marginBottom="1dp"
+        android:layout_below="@id/sound_name"
+        android:layout_marginBottom="27dp"
         android:background="#FFFFFF">
 
 
     </ListView>
+
+    <Button
+        android:id="@+id/history"
+        android:layout_width="177dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ListV"
+        android:layout_alignParentBottom="true"
+        android:text="History" />
 
 
 </RelativeLayout>
